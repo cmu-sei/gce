@@ -39,7 +39,7 @@ To get started, take a look at the `GCEExamples.ipynb` notebook, and the `PaperR
 ## Install Package
 To install the package remotely:
 ```shell
-    pip install git+https://etheim@code.sei.cmu.edu/bitbucket/scm/etcgen/gece_metrics.git
+    pip install git+https://github.com/cmu-sei/gce.git
 ```
 
 After cloning the repo, inside of the base directory, you install the package with:
