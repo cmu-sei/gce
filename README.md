@@ -54,7 +54,7 @@ Dependencies can be found in `requirements.txt`.
 - [NumPy](https://numpy.org/) - For basic linear algebraic objects and their manipulation.
 - [David Widmann's calibration library](https://github.com/uu-sml/calibration/tree/7bd1a2407f96f87e37d81eadaea7efeb14bb8a83) - For histogram binning algorithms.
 
-## Build Documentation (requires [Sphinx](https://www.sphinx-doc.org/en/master/))
+## Build Documentation (requires [Sphinx](https://www.sphinx-doc.org/en/master/) and RTD Theme (https://sphinx-rtd-theme.readthedocs.io/en/stable/installing.html))
 To build the API documentation in html form run:
 ```shell
     cd docs
